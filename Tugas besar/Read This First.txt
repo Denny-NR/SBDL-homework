@@ -1,0 +1,10 @@
+1. tambahkan dulu jcalender di library (add jCalender first in your library)
+2. buat database namanya toko buku (create database toko_buku it means book_store in english)
+3. buat table buku dan transaksi *note (create table buku(book) and table Transaksi(transaction))
+4. buat trigger, view dan stored procedure *note (create trigger, view and procedure)
+
+Penting : CRUDnya udah siap, view, trigger dan join(LEFT JOIN) udah, stored procedure untuk 
+ngecek rata-rata penjualan buku tertentu pada form transaction_Report; tinggal function;
+
+
+*note : untuk strukturnya, script ada di foto ada di folder foto (the screenshoot of the script is in the foto folder)
