@@ -7,5 +7,5 @@ Penting : CRUDnya udah siap, view, trigger dan join(LEFT JOIN) udah, stored proc
 ngecek rata-rata penjualan buku tertentu pada form transaction_Report; tinggal function;
 
 
-nama : Denny 
+nama : Denny nur rahman
 *note : untuk strukturnya, script ada di foto ada di folder foto (the screenshoot of the script is in the foto folder)
